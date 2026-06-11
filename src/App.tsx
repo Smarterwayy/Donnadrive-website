@@ -11,6 +11,8 @@ import SmartCalendar from "./pages/SmartCalendar";
 import VoiceFeedback from "./pages/VoiceFeedback";
 import AIWhatsAppBooking from "./pages/AIWhatsAppBooking";
 import ThankYou from "./pages/ThankYou";
+import Blog from "./pages/Blog";
+import BlogPost from "./pages/BlogPost";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -30,6 +32,8 @@ const App = () => (
           <Route path="/voice-feedback" element={<VoiceFeedback />} />
           <Route path="/ai-whatsapp-booking" element={<AIWhatsAppBooking />} />
           <Route path="/thank-you" element={<ThankYou />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
