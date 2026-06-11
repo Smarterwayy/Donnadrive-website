@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Late cancellations and no-shows can cost driving instructors thousands per year. Here\'s how to protect your income with a clear policy, automated reminders, and a short-notice waitlist.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '2 June 2025',
+    date: '8 January 2026',
     readTime: '6 min read',
     excerpt: 'A single late cancellation costs you more than you think. Here\'s how professional instructors protect their income without damaging student relationships.',
     body: `
@@ -86,7 +86,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Unsure what to charge for driving lessons? This guide covers UK average rates, how to set your price based on location and experience, when to increase your rates, and how to handle intensive courses.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '5 June 2025',
+    date: '15 January 2026',
     readTime: '7 min read',
     excerpt: 'Many instructors undercharge for years because they\'re worried about losing students. Here\'s how to price your lessons properly — and when to put your rates up.',
     body: `
@@ -165,7 +165,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'A practical guide to the DVSA driving syllabus for instructors — what to cover, how to sequence lessons from first session to test-ready, and how to track progress effectively.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '9 June 2025',
+    date: '3 February 2026',
     readTime: '8 min read',
     excerpt: 'A well-structured lesson plan builds confidence and gets students test-ready faster. Here\'s how to work through the DVSA syllabus without leaving gaps.',
     body: `
@@ -260,7 +260,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Your reputation is your most valuable business asset as a driving instructor. This guide covers Google reviews, pass rates, communication, and how to generate word-of-mouth referrals consistently.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '12 June 2025',
+    date: '19 February 2026',
     readTime: '6 min read',
     excerpt: 'In a local service business, reputation is everything. Here\'s how the instructors with full diaries and long waiting lists actually build and protect theirs.',
     body: `
@@ -334,7 +334,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Full-time driving instructors face a real burnout risk. This guide covers scheduling strategies, buffer time, managing test days, and how to structure a sustainable working week.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '15 June 2025',
+    date: '5 March 2026',
     readTime: '7 min read',
     excerpt: 'Teaching 30+ hours of driving per week is more draining than it looks. Here\'s how experienced instructors structure their time to stay sharp and avoid burnout.',
     body: `
@@ -421,7 +421,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'The DVSA says the average learner takes 45 professional lessons before passing. But what does that actually mean for you? This guide explains the factors that genuinely affect how long it takes.',
     category: 'learner',
     categoryLabel: 'Learner Guides',
-    date: '18 June 2025',
+    date: '21 March 2026',
     readTime: '6 min read',
     excerpt: 'The honest answer is: it depends. But here\'s exactly what it depends on, and how to make sure you\'re not spending more time — or money — than you need to.',
     body: `
@@ -484,7 +484,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Choosing between automatic and manual for your driving lessons? This guide covers the real differences in cost, pass rates, licence restrictions, and career implications to help you decide.',
     category: 'learner',
     categoryLabel: 'Learner Guides',
-    date: '21 June 2025',
+    date: '9 April 2026',
     readTime: '6 min read',
     excerpt: 'The choice between automatic and manual affects your licence for life. Here\'s what nobody tells you before you decide.',
     body: `
@@ -555,7 +555,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'With a UK first-time pass rate under 50%, passing first time is genuinely difficult. This guide covers the most common reasons people fail, what examiners are actually looking for, and how to prepare properly.',
     category: 'learner',
     categoryLabel: 'Learner Guides',
-    date: '24 June 2025',
+    date: '28 April 2026',
     readTime: '7 min read',
     excerpt: 'Less than half of all UK driving test candidates pass first time. Here\'s what separates those who do from those who don\'t — and it\'s not what most people think.',
     body: `
@@ -634,7 +634,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Choosing between Donna Drive and TotalDrive for your driving school? This side-by-side comparison covers scheduling, student management, automation, pricing, and who each tool is best suited to.',
     category: 'comparison',
     categoryLabel: 'Comparisons',
-    date: '27 June 2025',
+    date: '14 May 2026',
     readTime: '8 min read',
     excerpt: 'Both tools help driving instructors manage their business. But they\'re built around very different philosophies — and the right choice depends on how you want to work.',
     body: `
@@ -724,7 +724,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: 'Paper diaries are still common among driving instructors, but they come with hidden costs most people don\'t quantify. Here\'s what the switch to digital scheduling actually looks like in practice.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
-    date: '30 June 2025',
+    date: '2 June 2026',
     readTime: '6 min read',
     excerpt: 'The paper diary feels simple and reliable. But it\'s costing you more than you think — in time, in missed bookings, and in money you\'ll never recover.',
     body: `

@@ -2,8 +2,6 @@ import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Mail } from "lucide-react";
-import PrivacyPolicy from "./PrivacyPolicy";
-import TermsOfService from "./TermsOfService";
 
 const Contact = () => {
   return (
@@ -38,9 +36,13 @@ const Contact = () => {
         </motion.div>
 
         <div className="text-center text-primary-foreground/60 flex items-center justify-center gap-4 text-sm">
-          <PrivacyPolicy />
+          <Link to="/privacy-policy" className="underline hover:text-primary-foreground transition-colors">
+            Privacy Policy
+          </Link>
           <span>|</span>
-          <TermsOfService />
+          <Link to="/terms-of-service" className="underline hover:text-primary-foreground transition-colors">
+            Terms of Service
+          </Link>
         </div>
       </div>
     </section>
