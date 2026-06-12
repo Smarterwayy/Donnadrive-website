@@ -27,7 +27,22 @@ export default function BlogPost() {
         <meta property="og:title" content={post.title} />
         <meta property="og:description" content={post.metaDescription} />
         <meta property="og:type" content="article" />
+        <meta property="og:site_name" content="Donna Drive" />
         <link rel="canonical" href={`https://donnadrive.co.uk/blog/${post.slug}`} />
+        <script type="application/ld+json">{JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": post.title,
+          "description": post.metaDescription,
+          "datePublished": post.date,
+          "author": { "@type": "Organization", "name": "Donna Drive" },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Donna Drive",
+            "url": "https://donnadrive.co.uk"
+          },
+          "mainEntityOfPage": { "@type": "WebPage", "@id": `https://donnadrive.co.uk/blog/${post.slug}` }
+        })}</script>
       </Helmet>
 
       <Header />

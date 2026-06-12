@@ -31,7 +31,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>At an average of £35–£42 per hour across the UK (higher in London and the South East), a single short-notice cancellation costs you the equivalent of over an hour's work. But the true cost is higher: you've already blocked that slot out, potentially turned down another student, and now have a gap in your day that's almost impossible to fill at short notice.</p>
 
-<p>If you're getting three or four late cancellations per month — which is common for a full-time instructor — that's potentially £400–£600 walking out the door every single month. Over a year, that's between £5,000 and £7,000 you never earned. Money that could cover a new car, pay down a lease, or simply give you your evenings back.</p>
+<p>If you're getting three or four late cancellations per month — which is common for a full-time instructor — that's roughly £150–£300 of lost income every month at typical national rates (higher if you run two-hour lessons or teach in London). Over a year, that's somewhere between £1,800 and £3,600 you never earned. Money that could cover a new car, pay down a lease, or simply give you your evenings back.</p>
 
 <h2>Set a Cancellation Policy — and Actually Tell Students About It</h2>
 
@@ -78,12 +78,14 @@ export const blogPosts: BlogPost[] = [
 <p>Late cancellations are a solvable problem. A clear policy communicated upfront, automated reminders sent before every lesson, and an easy way for students to rebook without hassle will resolve the vast majority of the issue. The instructors who struggle with cancellations are usually the ones who've never set expectations — which means every cancellation becomes an awkward individual negotiation rather than a professional process.</p>
 
 <p>Set the rules early, automate the reminders, and make rebooking frictionless. It's not about being difficult — it's about running a professional business where your time is valued.</p>
+
+<p>If you're still managing your diary manually, it's worth reading our guide on <a href="/blog/why-driving-instructors-ditching-paper-diaries">why driving instructors are switching away from paper diaries</a> — the time savings from a proper system compound quickly.</p>
     `
   },
   {
     slug: 'how-to-price-driving-lessons-2025',
-    title: 'How to Price Your Driving Lessons in 2025: The Complete Guide',
-    metaDescription: 'Unsure what to charge for driving lessons? This guide covers UK average rates, how to set your price based on location and experience, when to increase your rates, and how to handle intensive courses.',
+    title: 'How to Price Your Driving Lessons in 2026: The Complete Guide',
+    metaDescription: 'Unsure what to charge for driving lessons? This guide covers UK average rates for 2026, how to set your price based on location and experience, when to increase your rates, and how to handle intensive courses.',
     category: 'instructor',
     categoryLabel: 'Instructor Tips',
     date: '15 January 2026',
@@ -94,7 +96,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>This guide covers how to set the right rate, how to think about different lesson formats, and — crucially — how to raise your prices without losing your students.</p>
 
-<h2>What Are Driving Instructors Charging in 2025?</h2>
+<h2>What Are Driving Instructors Charging in 2026?</h2>
 
 <p>Rates vary significantly by location. As a rough guide:</p>
 
@@ -157,6 +159,8 @@ export const blogPosts: BlogPost[] = [
 <h2>The Bottom Line</h2>
 
 <p>Charge what reflects your local market, your experience, and your costs — then review it at least once a year. The most common pricing mistake is inertia: setting a rate and never changing it. Your skills improve, your costs increase, and the market moves. Your rates should move with them.</p>
+
+<p>Once your pricing is right, your time management matters just as much. See our guide on <a href="/blog/manage-driving-school-schedule-without-burnout">managing your driving school schedule without burning out</a>.</p>
     `
   },
   {
@@ -252,6 +256,8 @@ export const blogPosts: BlogPost[] = [
 </ul>
 
 <p>Covering these specifically — not just ticking the box once — is what moves students from almost-ready to genuinely ready.</p>
+
+<p>For the student's perspective on readiness, see our learner guide: <a href="/blog/how-to-pass-driving-test-first-time">how to pass your driving test first time</a>.</p>
     `
   },
   {
@@ -476,6 +482,8 @@ export const blogPosts: BlogPost[] = [
 <h2>A Realistic Expectation</h2>
 
 <p>If you're a reasonably focused adult learner, taking two hours of lessons per week and supplementing with some private practice, expect to be test-ready in four to six months. Some people are ready sooner; some need longer. Both are normal. The goal is to pass when you're genuinely ready — not to pass as quickly as possible, and not to delay longer than necessary.</p>
+
+<p>Once you're ready to book your test, read our guide on <a href="/blog/how-to-pass-driving-test-first-time">how to pass your driving test first time</a> — it covers exactly what the examiner is looking for.</p>
     `
   },
   {
@@ -795,7 +803,208 @@ export const blogPosts: BlogPost[] = [
 
 <p>The paper diary isn't just old-fashioned. It's actively costing you money. Whether that cost is worth the comfort of familiarity is a decision only you can make — but at least make it knowing what you're choosing.</p>
     `
-  }
+  },
+  {
+    slug: 'best-driving-instructor-apps-uk-2026',
+    title: 'The Best Driving Instructor Apps in the UK for 2026',
+    metaDescription: 'Comparing the best driving instructor apps in the UK for 2026 — TotalDrive, Diary Manager, Drive Journal, and Donna Drive. Features, pricing, and which is right for your school.',
+    category: 'comparison',
+    categoryLabel: 'Comparisons',
+    date: '10 June 2026',
+    readTime: '9 min read',
+    excerpt: 'There are more driving instructor apps available than ever. Here\'s an honest breakdown of the main options in the UK — what each does well, what it doesn\'t, and who each one suits.',
+    body: `
+<p>The days of managing a driving school from a paper diary are fading. There are now several dedicated apps built specifically for UK driving instructors — each with different strengths, pricing models, and philosophies about how an instructor's business should be run.</p>
+
+<p>This guide covers the main options available in 2026, what each one actually does, and which type of instructor each suits best. We've included Donna Drive in this list — we'll be honest about where it excels and where it's not the right fit.</p>
+
+<h2>What to Look For in a Driving Instructor App</h2>
+
+<p>Before comparing specific tools, it's worth knowing what actually matters. The core jobs a driving instructor app needs to do are:</p>
+
+<ul>
+<li><strong>Scheduling:</strong> manage your diary, avoid double-bookings, handle recurring lesson slots</li>
+<li><strong>Student records:</strong> track progress, lesson history, test dates, notes</li>
+<li><strong>Payment tracking:</strong> know who owes what, log payments, chase outstanding balances</li>
+<li><strong>Communication:</strong> reminders to students, confirmation messages, rebooking</li>
+<li><strong>Admin reduction:</strong> the best tools take work off your plate, not add to it</li>
+</ul>
+
+<p>Every app on this list handles the basics. The differences are in how much they automate, how easy they are to use on a phone mid-day, and what they cost.</p>
+
+<h2>TotalDrive</h2>
+
+<p>TotalDrive is one of the most established driving instructor management platforms in the UK. It's been around long enough to have a stable, well-tested feature set and a community of instructors who've been using it for years.</p>
+
+<p><strong>What it does well:</strong></p>
+<ul>
+<li>Solid diary management with a clean, calendar-based interface</li>
+<li>Student profiles with lesson notes and test tracking</li>
+<li>Basic payment and earnings reporting</li>
+<li>Mobile app available for on-the-go access</li>
+<li>Established reputation — many instructors trust it because it's been proven over time</li>
+</ul>
+
+<p><strong>Where it falls short:</strong></p>
+<ul>
+<li>Communication is largely manual — you still need to send reminders and handle booking requests yourself</li>
+<li>No AI or automation layer — it organises your business but doesn't run any part of it for you</li>
+<li>Students can't self-book directly — all changes go through you</li>
+</ul>
+
+<p><strong>Best for:</strong> Instructors who want a reliable, established digital diary and don't mind managing communication themselves.</p>
+
+<h2>Diary Manager</h2>
+
+<p>Diary Manager is a UK-based scheduling tool popular with driving instructors, particularly those who also work as PDIs (potential driving instructors) under a franchisor. It's a clean, straightforward app focused on diary management.</p>
+
+<p><strong>What it does well:</strong></p>
+<ul>
+<li>Simple and fast — minimal learning curve, quick to set up</li>
+<li>Works well for instructors managing a fairly predictable weekly schedule</li>
+<li>Good for basic lesson planning and student tracking</li>
+<li>Pricing is competitive at the entry level</li>
+</ul>
+
+<p><strong>Where it falls short:</strong></p>
+<ul>
+<li>Limited automation — like TotalDrive, it's a passive record-keeper rather than an active assistant</li>
+<li>Payment tracking is basic compared to dedicated options</li>
+<li>No student-facing booking or self-service options</li>
+</ul>
+
+<p><strong>Best for:</strong> Part-time instructors or those under a franchise who need something simple and low-cost.</p>
+
+<h2>Drive Journal</h2>
+
+<p>Drive Journal takes a slightly different angle — it's designed as much for lesson logging and progress tracking as it is for diary management. Instructors who teach to a structured curriculum and want detailed records of topic coverage per student find it particularly useful.</p>
+
+<p><strong>What it does well:</strong></p>
+<ul>
+<li>Detailed lesson logging with topic-by-topic tracking aligned to the DVSA syllabus</li>
+<li>Good for instructors who want a structured record they can share with students</li>
+<li>Progress reports are a genuine differentiator — useful for students and parents who want to track development</li>
+</ul>
+
+<p><strong>Where it falls short:</strong></p>
+<ul>
+<li>Diary and scheduling features are less polished than competitors focused on that area</li>
+<li>Communication and reminder features are limited</li>
+<li>No automation for bookings or cancellations</li>
+</ul>
+
+<p><strong>Best for:</strong> Instructors who prioritise structured lesson tracking and student progress reporting over scheduling automation.</p>
+
+<h2>Donna Drive</h2>
+
+<p>Donna Drive is the newest entrant on this list and takes a fundamentally different approach. Where the other apps organise your diary and wait for you to operate them, Donna Drive uses an AI assistant — called Donna — to handle a significant part of the communication layer automatically.</p>
+
+<p><strong>What it does well:</strong></p>
+<ul>
+<li><strong>AI-handled bookings via WhatsApp:</strong> Students text your number to book, rearrange, or cancel — Donna responds, checks your availability, and confirms the booking without your involvement. This works 24/7, including evenings and weekends when you're not available to respond.</li>
+<li><strong>Automated reminders:</strong> 48-hour and 24-hour reminders sent to every student automatically — no manual texting required. Evidence consistently shows this reduces no-shows by 30–50%.</li>
+<li><strong>Dashboard stays current automatically:</strong> Because bookings are handled through the system, your diary, student records, and payment log update without manual entry.</li>
+<li><strong>WhatsApp-native:</strong> Students don't need to download an app — they communicate through WhatsApp, which most learner-age students already use as their primary messaging platform.</li>
+</ul>
+
+<p><strong>Where it falls short:</strong></p>
+<ul>
+<li>Newer product — less established than TotalDrive or Diary Manager, fewer long-term user reviews</li>
+<li>Instructors who prefer to personally handle all student communication may find the AI layer feels like a loss of control (though it can be configured to your preferences)</li>
+<li>The automation focus means it's a bigger shift from manual workflows — there's more to set up initially</li>
+</ul>
+
+<p><strong>Best for:</strong> Full-time instructors spending significant time daily on booking messages and reminders; instructors who regularly miss enquiries while teaching; those building a new teaching business and wanting professional systems from day one.</p>
+
+<h2>Side-by-Side Summary</h2>
+
+<div style="overflow-x:auto">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>TotalDrive</th>
+<th>Diary Manager</th>
+<th>Drive Journal</th>
+<th>Donna Drive</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Diary management</td>
+<td>✓ Strong</td>
+<td>✓ Simple</td>
+<td>✓ Basic</td>
+<td>✓ Strong</td>
+</tr>
+<tr>
+<td>Student records</td>
+<td>✓ Good</td>
+<td>✓ Basic</td>
+<td>✓ Excellent</td>
+<td>✓ Good</td>
+</tr>
+<tr>
+<td>Payment tracking</td>
+<td>✓ Good</td>
+<td>✗ Limited</td>
+<td>✗ Limited</td>
+<td>✓ Good</td>
+</tr>
+<tr>
+<td>Automated reminders</td>
+<td>✗ Manual</td>
+<td>✗ Manual</td>
+<td>✗ Manual</td>
+<td>✓ Automatic</td>
+</tr>
+<tr>
+<td>Student self-booking</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✓ Via WhatsApp</td>
+</tr>
+<tr>
+<td>AI assistant</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✓ Donna</td>
+</tr>
+<tr>
+<td>24/7 booking handling</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✗ No</td>
+<td>✓ Yes</td>
+</tr>
+<tr>
+<td>Years established</td>
+<td>10+</td>
+<td>5+</td>
+<td>5+</td>
+<td>New</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h2>Which Should You Choose?</h2>
+
+<p>The honest answer depends on where your biggest problem actually is.</p>
+
+<p><strong>If your main pain is organisation</strong> — double-bookings, forgetting who's paid, losing track of where students are in their progress — any of these tools will help. TotalDrive or Diary Manager will solve it cleanly and with minimal disruption to how you currently work.</p>
+
+<p><strong>If your main pain is communication overhead</strong> — spending an hour a day on booking messages, sending reminders manually, missing enquiries while you're teaching — then Donna Drive addresses the problem the other apps don't. The others expect you to still do that work; Donna Drive takes it off your plate.</p>
+
+<p><strong>If you're just starting out</strong> and want to build professional systems from day one rather than paper diaries and manual texting, Donna Drive gives you that foundation immediately.</p>
+
+<p>There's no wrong answer here — the best app is the one that solves the specific problems you actually have. If you're not sure which category you fall into, track your phone time for a week and see how much of it goes on booking-related messages. That number usually makes the decision obvious.</p>
+
+<p>Read our more detailed head-to-head: <a href="/blog/donna-drive-vs-totaldrive-comparison">Donna Drive vs TotalDrive — an honest comparison</a>.</p>
+    `
+  },
 ]
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
