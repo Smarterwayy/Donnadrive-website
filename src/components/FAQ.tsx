@@ -6,6 +6,7 @@ import {
 } from "@/components/ui/accordion";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const FAQ = () => {
   const faqs = [
@@ -38,6 +39,20 @@ const FAQ = () => {
 
   return (
     <section className="py-8 sm:py-10 lg:py-14 bg-gradient-subtle" id="faq">
+      <Helmet>
+        <script type="application/ld+json">{JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": faqs.map(faq => ({
+            "@type": "Question",
+            "name": faq.question,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": faq.answer
+            }
+          }))
+        })}</script>
+      </Helmet>
       <div className="container mx-auto px-4">
         <motion.div 
           className="text-center mb-6 sm:mb-8 lg:mb-10"

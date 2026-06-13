@@ -4,6 +4,7 @@ import MeetDonna from "../components/MeetDonna";
 import Features from "../components/Features";
 import HowItWorks from "../components/HowItWorks";
 import Pricing from "../components/Pricing";
+import FAQ from "../components/FAQ";
 import Contact from "../components/Contact";
 import ScrollProgress from "../components/ScrollProgress";
 
@@ -17,6 +18,7 @@ const Index = () => {
       <Features />
       <HowItWorks />
       <Pricing />
+      <FAQ />
       <Contact />
     </div>
   );
