@@ -1005,6 +1005,260 @@ export const blogPosts: BlogPost[] = [
 <p>Read our more detailed head-to-head: <a href="/blog/donna-drive-vs-totaldrive-comparison">Donna Drive vs TotalDrive — an honest comparison</a>.</p>
     `
   },
+  {
+    slug: 'how-to-become-driving-instructor-adi-2026',
+    title: 'How to Become a Driving Instructor (ADI) in the UK: The Complete 2026 Guide',
+    metaDescription: 'Thinking about becoming a driving instructor in the UK? This complete 2026 guide covers the ADI Part 1, 2 and 3 exams, costs, timelines, the PDI trainee licence, franchise vs self-employed routes, and how to set your business up from day one.',
+    category: 'instructor',
+    categoryLabel: 'Instructor Tips',
+    date: '24 June 2026',
+    readTime: '9 min read',
+    excerpt: 'Becoming a qualified ADI takes most people 6–12 months and three separate exams. Here\'s exactly what the process involves, what it costs, and how to set your business up properly from the day you qualify.',
+    body: `
+<p>Driving instruction is one of the few self-employed careers where you can set your own hours, work close to home, and build a business with relatively low overheads compared to most trades. But getting there involves a formal qualification process — the Approved Driving Instructor (ADI) registration — that takes most people the best part of a year and several hundred to a few thousand pounds, depending on the training route you choose.</p>
+
+<p>Here's exactly what's involved, what it costs, and how to set yourself up properly from the moment you qualify.</p>
+
+<h2>The Basic Requirements</h2>
+
+<p>Before you can apply to become an ADI, you need to:</p>
+
+<ul>
+<li>Hold a full UK (or EU/EEA) driving licence for at least three years</li>
+<li>Not have any disqualifications in the last four years</li>
+<li>Pass an enhanced DBS (criminal record) check</li>
+<li>Meet the "fit and proper person" requirement set by the DVSA</li>
+</ul>
+
+<p>If you meet these, you can register with the DVSA and begin the three-part qualification process.</p>
+
+<h2>Part 1: The Theory Test</h2>
+
+<p>The ADI Part 1 exam is a written theory test covering road procedure, traffic signs, vehicle handling, driving test disabilities and conditions, publications and law, and instructional techniques. It's more demanding than the standard learner theory test — you're expected to know the subject matter from an instructor's perspective, not just a driver's.</p>
+
+<p>Most candidates spend 4–8 weeks preparing using ADI-specific theory question banks. The pass mark is high, and the test covers material most experienced drivers have never formally studied — so don't assume years of driving experience is enough preparation on its own.</p>
+
+<h2>Part 2: The Driving Ability Test</h2>
+
+<p>Part 2 is an enhanced driving test — a higher standard than the standard practical test you took to get your licence. The examiner is assessing whether your driving is of instructor-level quality: precise, safe, and demonstrating the kind of judgement you'll need to model for learners.</p>
+
+<p>Many qualified drivers fail Part 2 the first time simply because habits that are "good enough" for everyday driving aren't good enough at this standard. Most training providers recommend a course of instructor-standard driving lessons before attempting this stage, even for experienced drivers.</p>
+
+<h2>Part 3: Instructional Ability</h2>
+
+<p>This is the part that catches people out who assumed "I can drive well, so I can teach driving." Part 3 assesses your ability to actually instruct — explaining concepts clearly, structuring a lesson, managing risk while a learner is driving, and adapting your approach to different ability levels.</p>
+
+<p>You'll deliver mock lessons on topics like manoeuvres, junctions, or independent driving to an examiner role-playing as a learner at different stages of training. The skills required here — patience, clear explanation, reading when to intervene and when to let a mistake play out safely — are genuinely different from driving skills, and most candidates need dedicated instructor training to pass.</p>
+
+<h2>The PDI Trainee Licence: Earning While You Train</h2>
+
+<p>One of the most useful parts of the process for many new instructors is the trainee licence (PDI badge), available once you've passed Parts 1 and 2. It allows you to give paid lessons under supervision while you train for and prepare to take Part 3 — typically for up to 12 months.</p>
+
+<p>This matters financially: instead of spending months training with no income, many trainees start earning (at a reduced capacity, with required supervised check rides) almost immediately after Part 2. It's worth discussing with your training provider how the trainee licence fits into their course structure — some build it in as standard, others don't mention it unless asked.</p>
+
+<h2>How Much Does It Cost?</h2>
+
+<p>Costs vary significantly depending on whether you train independently or through a franchise-linked training provider:</p>
+
+<ul>
+<li><strong>DVSA exam fees:</strong> Part 1 (~£81), Part 2 (~£111), Part 3 (~£111) — these are fixed by the DVSA and don't vary by provider</li>
+<li><strong>Training courses:</strong> Range enormously, from around £1,000–£2,000 for a basic theory and driving preparation package, up to £4,000–£6,000+ for comprehensive training including a guaranteed car, franchise tie-in, and ongoing mentoring</li>
+<li><strong>Vehicle costs:</strong> A dual-controlled training vehicle, either purchased outright or — far more commonly — leased through a franchise or instructor-specific car scheme</li>
+<li><strong>Insurance:</strong> Driving instructor insurance is a separate, specific policy type — see our <a href="/blog/driving-instructor-insurance-guide-2026">complete guide to driving instructor insurance</a> for current cost ranges</li>
+</ul>
+
+<p>Total realistic budget for most people: somewhere between £2,500 and £7,000 depending on the route, spread over the training period. Be wary of providers who quote unusually low headline prices but tie you into expensive car leases or franchise fees once you qualify — read the full contract, not just the training price.</p>
+
+<h2>How Long Does It Take?</h2>
+
+<p>The DVSA gives you two years from registering to complete all three parts, with a maximum of three attempts at each part within that window. In practice, most people who train consistently complete the process in 6–12 months. Part-time training alongside an existing job typically takes longer — closer to 12–18 months — which is worth factoring in if you're planning your transition from another career.</p>
+
+<h2>Franchise vs Independent: Which Route?</h2>
+
+<p>Once qualified, most new ADIs choose between joining a franchise (a national driving school brand) or going fully independent from day one.</p>
+
+<p><strong>Franchises</strong> typically provide: a recognisable brand, a stream of enquiries (particularly valuable in your first months when you have no reputation of your own), a leased car often included in the package, and sometimes ongoing mentoring. In exchange, you pay a weekly or monthly franchise fee — often £150–£300+ per week — regardless of how many lessons you teach.</p>
+
+<p><strong>Independent</strong> means keeping 100% of what you charge, but you're responsible for generating your own enquiries, sourcing and insuring your own vehicle, and building your reputation from zero. The breakeven point depends entirely on how quickly you can fill your diary — some new instructors find franchise support pays for itself in year one through guaranteed enquiries; others find the fee eats into income they could have kept by building their own local presence from the start.</p>
+
+<p>An increasingly common middle path: start with a franchise for the first 6–12 months to build initial momentum and a student base, then transition to independent once you have a steady stream of referrals and reviews of your own.</p>
+
+<h2>Setting Up Your Business Properly From Day One</h2>
+
+<p>Whichever route you choose, the systems you put in place in your first few months shape habits that are hard to undo later. New instructors who start with a paper diary and manual texting often find — three years in — that they're spending hours a week on admin that could have been automated from the start.</p>
+
+<p>Things worth setting up immediately:</p>
+
+<ul>
+<li><strong>A proper diary system</strong> rather than a paper one — see our piece on <a href="/blog/why-driving-instructors-ditching-paper-diaries">why instructors are ditching paper diaries</a> for what this saves in practice</li>
+<li><strong>A clear pricing structure</strong> from day one — our <a href="/blog/how-to-price-driving-lessons-2025">guide to pricing driving lessons in 2026</a> covers what instructors in your area are likely charging</li>
+<li><strong>A cancellation policy</strong>, communicated to every new student before their first lesson</li>
+<li><strong>A way for students to message and book you</strong> that doesn't require them to wait for you to be free — particularly important when you're building a student base from scratch and can't afford to lose enquiries to slow responses</li>
+</ul>
+
+<h2>The Bottom Line</h2>
+
+<p>Becoming an ADI is a genuine qualification process — not a quick course — and it deserves to be treated as such. Budget realistically, choose a training provider whose contract terms you've actually read, and use the trainee licence period to start earning as early as possible. Most importantly: the business habits you build in your first year tend to stick. Starting with professional systems — proper scheduling, clear pricing, automated reminders — puts you ahead of instructors who are still untangling a paper diary five years in.</p>
+    `
+  },
+  {
+    slug: 'whatsapp-booking-system-driving-instructors',
+    title: 'WhatsApp Booking Systems for Driving Instructors: How They Work and Why They\'re Taking Over',
+    metaDescription: 'WhatsApp is already how most learners contact their driving instructor. This guide explains how a WhatsApp-based booking system works, what an AI assistant can handle automatically, and what to look for before switching.',
+    category: 'instructor',
+    categoryLabel: 'Instructor Tips',
+    date: '8 July 2026',
+    readTime: '7 min read',
+    excerpt: 'Your students are already messaging you on WhatsApp. The only question is whether you\'re the one replying to every message — or whether something handles it for you.',
+    body: `
+<p>Ask any driving instructor how most of their students get in touch, and the answer is almost universally the same: WhatsApp. Not the phone, not a booking app, not email. A message, usually outside of working hours, asking to book, rearrange, or check something about an upcoming lesson.</p>
+
+<p>That's not going away — if anything, it's becoming more entrenched as younger learners (who've never really used phone calls for anything) become the majority of new students. The real question for instructors isn't whether to use WhatsApp. It's whether every one of those messages requires you personally to read it, think about your diary, and reply — or whether that process can run on its own.</p>
+
+<h2>Why WhatsApp Specifically?</h2>
+
+<p>A few things make WhatsApp different from other messaging channels for this purpose:</p>
+
+<ul>
+<li><strong>Everyone already has it.</strong> Unlike a booking app, there's no download, no account creation, no friction. Students message the number they already have saved for you.</li>
+<li><strong>It's asynchronous by nature.</strong> Students don't expect an instant reply to a WhatsApp message the way they might to a phone call — which makes it a natural fit for automated or delayed responses without feeling impersonal.</li>
+<li><strong>It supports rich content.</strong> Booking confirmations, reminders, even simple calendar links can be sent as normal messages, which most students read within minutes.</li>
+<li><strong>It's where the conversation already happens.</strong> Students don't need to be persuaded to use a new channel — they're already there.</li>
+</ul>
+
+<h2>What "WhatsApp Booking System" Actually Means</h2>
+
+<p>There's a meaningful difference between "I use WhatsApp to communicate with students" (true for almost every instructor) and "I have a WhatsApp booking system" (true for very few).</p>
+
+<p>A genuine WhatsApp booking system means the booking logic — checking your availability, proposing times, confirming the slot, updating your diary, sending reminders — happens through WhatsApp without you manually doing each step. The message channel is the same one students already use; what's different is what happens after the message arrives.</p>
+
+<h2>How an AI Assistant Handles It</h2>
+
+<p>This is where AI-driven systems like Donna (Donna Drive's assistant) come in. Rather than you reading a message, checking your diary, and typing a reply, the assistant:</p>
+
+<ul>
+<li><strong>Reads the request</strong> — "Can I book a lesson for Thursday afternoon?" — and understands what's being asked, including informal phrasing, abbreviations, and the kind of messages real people actually send</li>
+<li><strong>Checks your live availability</strong> against your actual diary, not a static schedule that might be out of date</li>
+<li><strong>Proposes specific times</strong> that work, rather than a generic "let me check and get back to you"</li>
+<li><strong>Confirms the booking</strong> once the student picks a time, and updates your diary instantly</li>
+<li><strong>Sends reminders</strong> automatically at 48 and 24 hours before the lesson — without you doing anything</li>
+<li><strong>Handles cancellations and rescheduling</strong> within the rules you've set (e.g. your cancellation policy), and offers alternative slots if needed</li>
+</ul>
+
+<p>The key point: this all happens within the same WhatsApp conversation the student is already used to. There's no app to download, no separate login, nothing that feels like "the instructor uses different software now." From the student's side, it just feels like a very responsive, always-available version of texting their instructor.</p>
+
+<h2>What This Looks Like in a Typical Week</h2>
+
+<p>Consider a Tuesday evening. A student finishes their homework at 9:30pm and remembers they need to move Thursday's lesson because of a clash with a university open day. With a manual system, they either message you and wait until you're free to reply (possibly the next morning, possibly after they've already made other plans), or they don't bother and you find out about a no-show on Thursday.</p>
+
+<p>With an automated WhatsApp system, the student gets a response within seconds: the original Thursday slot is released, a couple of alternative times are proposed based on your actual availability, the student picks one, and it's confirmed — all before they go to bed. You wake up to an updated diary and nothing to action.</p>
+
+<p>Multiply this across 15–20 active students and the volume of "small" admin interactions that no longer need you becomes substantial — see our piece on the <a href="/blog/why-driving-instructors-ditching-paper-diaries">hidden time cost of manual scheduling</a> for a sense of what that adds up to over a year.</p>
+
+<h2>Common Concerns — and the Honest Answers</h2>
+
+<p><strong>"Will students think it's impersonal?"</strong> Most students don't think about it at all — they're used to automated booking confirmations, delivery updates, and appointment reminders from every other service they use. What they notice is responsiveness, not whether a human typed the reply at 11pm.</p>
+
+<p><strong>"What if the AI gets something wrong?"</strong> Good systems are configured around your specific rules — your availability, your cancellation policy, your pricing — and flag anything genuinely ambiguous rather than guessing. You're not handing over judgement calls; you're automating the repetitive, rules-based parts of the conversation.</p>
+
+<p><strong>"I like talking to my students."</strong> Nothing about an automated booking layer stops you from messaging students personally whenever you want to — about their progress, encouragement after a good lesson, or just being friendly. What it removes is the obligation to personally handle "can I move Thursday to Friday" at 9:30pm.</p>
+
+<h2>What to Look For Before Switching</h2>
+
+<ul>
+<li><strong>Does it use your existing WhatsApp number,</strong> or does it require students to message a new number or download an app? The former preserves the relationship students already have with "texting their instructor."</li>
+<li><strong>Does it sync with a real diary</strong> that you can also view and edit yourself — or does the AI become the only source of truth?</li>
+<li><strong>Can you set your own rules</strong> — cancellation policy, working hours, buffer times between lessons — or is it one-size-fits-all?</li>
+<li><strong>What happens with edge cases?</strong> A good system escalates genuinely unusual requests to you rather than guessing.</li>
+</ul>
+
+<h2>The Bottom Line</h2>
+
+<p>WhatsApp isn't a new channel you need to adopt — you're almost certainly using it already. The shift worth considering is whether the booking logic behind those messages still requires you personally for every single interaction, or whether it can run itself within the rules you set. For a full comparison of how this approach differs from traditional diary software, see our <a href="/blog/donna-drive-vs-totaldrive-comparison">Donna Drive vs TotalDrive comparison</a>.</p>
+    `
+  },
+  {
+    slug: 'driving-instructor-insurance-guide-2026',
+    title: 'Driving Instructor Insurance: A Complete Guide for 2026',
+    metaDescription: 'Driving instructor insurance is different from standard car insurance — and getting it wrong can invalidate your cover entirely. This 2026 guide covers policy types, typical costs, what affects your premium, and how to choose a policy.',
+    category: 'instructor',
+    categoryLabel: 'Instructor Tips',
+    date: '22 July 2026',
+    readTime: '7 min read',
+    excerpt: 'Teaching learners in your car without the right insurance can void your policy entirely — at the worst possible moment. Here\'s what driving instructor insurance actually covers, and what it costs in 2026.',
+    body: `
+<p>If you're using your car to teach learners — whether full-time, part-time, or even just occasionally for friends and family in exchange for fuel money — standard car insurance very likely doesn't cover you. Driving instructor insurance is a distinct policy type, and getting it wrong isn't a minor technicality: an invalid policy means no cover at all if something goes wrong, at exactly the moment you'd need it most.</p>
+
+<p>Here's what you actually need to know.</p>
+
+<h2>Why Standard Car Insurance Doesn't Work</h2>
+
+<p>Standard car insurance is priced and underwritten on the assumption of one (or a small, named, list of) regular driver(s). Driving instruction involves:</p>
+
+<ul>
+<li>Multiple different learner drivers operating the vehicle, often on the same day</li>
+<li>A dual-control setup that gives the instructor the ability to intervene — which standard policies don't account for</li>
+<li>Business use — teaching for payment is a commercial activity, not personal use, even if it's part-time</li>
+<li>Significantly higher risk profile — learners are, by definition, less experienced and more likely to be involved in low-speed incidents</li>
+</ul>
+
+<p>If you have an accident while giving a paid lesson and your insurer discovers you were operating on a standard personal policy, they can refuse the claim entirely — leaving you personally liable for damage, repairs, and potentially third-party claims. This is one of the few areas where "I'll sort it out properly once I'm busier" is a genuinely dangerous shortcut.</p>
+
+<h2>Types of Cover You Need</h2>
+
+<p><strong>Driving instructor motor insurance (the core policy).</strong> This covers the vehicle for instructional use, including dual-control modifications, multiple learner drivers, and the commercial nature of the activity. It's the equivalent of your main car insurance, but priced and underwritten for instruction specifically.</p>
+
+<p><strong>Public liability insurance.</strong> Covers claims from third parties — for example, if a learner causes damage to property or injures someone else during a lesson and a claim is made against you as the instructor (separate from the vehicle damage itself, which is covered by the motor policy).</p>
+
+<p><strong>Professional indemnity insurance.</strong> Less commonly discussed, but relevant if a student claims your instruction was negligent in some way that contributed to an incident — for example, allegations that you failed to intervene appropriately given your training. Many comprehensive instructor policies bundle this in; check whether yours does.</p>
+
+<p><strong>Trainee instructor (PDI) insurance.</strong> If you're training under a trainee licence (see our <a href="/blog/how-to-become-driving-instructor-adi-2026">guide to becoming an ADI</a>), you'll need a policy that specifically covers PDI status — full ADI policies and PDI policies are often priced and underwritten differently, and not all insurers offer both.</p>
+
+<p><strong>Dual control / equipment cover.</strong> Dual-control pedal systems are a meaningful cost to repair or replace if damaged, and not all general motor policies automatically include this equipment as standard — worth confirming explicitly.</p>
+
+<h2>What Affects Your Premium</h2>
+
+<p>Driving instructor insurance tends to be more expensive than standard car insurance — often noticeably so — for the reasons above. Several factors influence where you'll land:</p>
+
+<ul>
+<li><strong>Your location:</strong> Premiums vary significantly by postcode, following similar patterns to standard car insurance — urban areas and certain regions (London and the South East particularly) tend to be higher</li>
+<li><strong>Your vehicle:</strong> Newer cars, certain makes and models popular with instructors (often with manufacturer-backed instructor schemes), and dual-control installations all affect pricing</li>
+<li><strong>Your experience and claims history:</strong> ADIs with a clean record and several years of experience typically get better rates than newly qualified instructors — which is one reason some new instructors find their first-year premium notably higher than expected</li>
+<li><strong>Annual mileage:</strong> Full-time instructors covering high mileage will generally pay more than part-time instructors with lower annual usage</li>
+<li><strong>Franchise vs independent:</strong> Some franchises arrange group insurance schemes for their instructors, which can sometimes (though not always) work out cheaper than sourcing cover independently — worth comparing rather than assuming</li>
+</ul>
+
+<h2>How Much Does It Cost in 2026?</h2>
+
+<p>As a rough guide, full-time ADI motor insurance policies commonly fall somewhere in the range of £800–£1,800 per year, with PDI (trainee) policies sometimes higher due to the perceived risk of less experience, though this varies by insurer. Public liability cover is often available as an add-on for a relatively modest additional cost, sometimes bundled into instructor-specific package policies.</p>
+
+<p>These figures move year to year and vary enormously based on the factors above — the only reliable way to know your actual cost is to get quotes from insurers who specifically underwrite driving instructor policies, rather than general brokers who may not have access to the right products.</p>
+
+<h2>How to Reduce Your Premium</h2>
+
+<ul>
+<li><strong>Compare specialist instructor insurers,</strong> not general car insurance comparison sites — driving instructor cover is a niche product and not all insurers offer it, let alone competitively</li>
+<li><strong>Build a clean claims history</strong> — avoiding small claims for minor damage where you could realistically cover the cost yourself can keep your record clean for renewal pricing</li>
+<li><strong>Consider a telematics or black box policy</strong> if available for instructor cover — some insurers offer reduced rates for monitored driving, though check this doesn't conflict with normal instructional driving patterns</li>
+<li><strong>Review at renewal, every year</strong> — loyalty rarely pays in insurance, and instructor-specific premiums can shift significantly between insurers year to year</li>
+<li><strong>Bundle public liability and professional indemnity</strong> with your motor policy where possible — package deals are often cheaper than separate policies from different providers</li>
+</ul>
+
+<h2>What to Check Before You Buy</h2>
+
+<ul>
+<li><strong>Does it explicitly cover dual controls?</strong> Ask directly — don't assume from the policy summary alone</li>
+<li><strong>Does it cover PDI status</strong> if you're training, and does it automatically (or require a manual update) when you qualify as a full ADI?</li>
+<li><strong>What's the excess</strong> for instructor-related claims specifically — sometimes higher than standard policy excesses</li>
+<li><strong>Does it cover your car for personal use too,</strong> or do you need a separate arrangement for non-teaching driving?</li>
+<li><strong>Is public liability included or separate</strong> — and what's the cover limit (typically quoted as £1 million, £2 million, or £5 million)?</li>
+</ul>
+
+<h2>The Bottom Line</h2>
+
+<p>Driving instructor insurance is a genuine cost of doing business — and one of the few areas where cutting corners isn't a minor risk but a potentially business-ending one if you're ever uninsured at the moment of a claim. Treat it as a fixed, non-negotiable cost when working out your <a href="/blog/how-to-price-driving-lessons-2025">pricing</a>, shop around with specialist providers every renewal, and make sure your policy explicitly covers dual controls, instructional use, and your current qualification status (PDI or full ADI). Get this right once, and it's simply a line item — get it wrong, and it's the kind of mistake that only reveals itself at the worst possible time.</p>
+    `
+  },
 ]
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
