@@ -36,6 +36,9 @@ const Header = () => {
             <Link to="/blog" className={`text-sm lg:text-base transition-colors ${pathname.startsWith('/blog') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'}`}>
               Blog
             </Link>
+            <Link to="/get-onboard" className="text-sm lg:text-base text-foreground hover:text-primary transition-colors">
+              Get Onboard
+            </Link>
           </nav>
 
           <div className="flex items-center gap-2">
