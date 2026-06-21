@@ -21,6 +21,7 @@ import Onboarding from "./pages/Onboarding";
 
 const queryClient = new QueryClient();
 
+// The App component sets up the main structure of the application, including routing and global providers for state management and UI components.
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
